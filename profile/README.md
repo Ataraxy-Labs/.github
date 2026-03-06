@@ -9,3 +9,4 @@ Ataraxy Labs builds some cool stuff that the world never saw before.
 ## Community
 
 - [Website](https://ataraxy-labs.com)
+- Email: rohan@ataraxy-labs.com
