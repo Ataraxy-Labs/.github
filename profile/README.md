@@ -10,4 +10,4 @@ Ataraxy Labs builds some cool stuff that the world never saw before.
 
 - [Website](https://ataraxy-labs.com)
 - Email: rohan@ataraxy-labs.com
-- Discord Invite Link: https://discord.gg/aGxCG9ze
+- Discord: https://discord.gg/aGxCG9ze
