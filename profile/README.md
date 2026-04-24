@@ -9,6 +9,6 @@ Ataraxy Labs builds some cool stuff that the world never saw before.
 
 ## Community
 
-- [Website](https://ataraxy-labs.com)
+- [Website](https://ataraxy-labs.com) - check this out if you didn't, you will enjoy life even more.
 - Email: rohan@ataraxy-labs.com
 - [Discord](https://discord.gg/vgb7z2CQ7D)
